@@ -1,0 +1,8 @@
+.btn{
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(193, 237, 223);
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 5px 8px;
+}
